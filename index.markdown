@@ -20,5 +20,3 @@ family uses several custom apps for recording and keeping score of their games.
 
 - [Data Collection](https://hwatu-datacollection.herokuapp.com)
 - [Score Keeping](https://hwatu-6a25d.web.app)
-
-# [The Players](/players)
