@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Rules'
+date: 2021-12-03 19:24:30 -0500
+categories: rules
+---
+
+Most of the standard rules of go-stop are followed. Variations are specified below.
+
+# Tti-bak
+
+A player gets a tti-bak if they do not have ribbons, and their payment is
+doubled. This only occurs if the winner made points with ribbons.
+
+# Jokers
+
+There are three jokers in the game.
+
+- 2 represent double-pi
+- 1 is a gwang
+
+In the event that a person has 6 gwang (including the joker), they receive 30 points from gwang
+
+# First ppeok
+
+If a player commits ppeok (matches a card but they flip over a card of the same
+month) on their first turn, they will receive 1 point from all other players.
+
+# Golden Pig
+
+The player who receives the pig (meong) of July will receive one point from all
+other players.
