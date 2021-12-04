@@ -9,8 +9,7 @@ permalink: /players/
 
 A wannabe concealer, Juni Kim always attempts to hide the amount of pi or gwang
 that he possesses in a futile bid to force Sangmok or Tei to call "go". He grins
-when he has a poktan, and his antics are frequently protested against by Tei
-Kim.
+when he has a poktan, and his antics are frequently protested by Tei Kim.
 
 He usually leads on the Go-Stop leaderboard, and occasionally has massive games
 where he receives 300-400 points.

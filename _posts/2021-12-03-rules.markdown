@@ -12,6 +12,10 @@ Most of the standard rules of go-stop are followed. Variations are specified bel
 A player gets a tti-bak if they do not have ribbons, and their payment is
 doubled. This only occurs if the winner made points with ribbons.
 
+# Meong Bak
+
+All losers receive Meong Bak (penalties doubled) if the winner has 7 or more meong.
+
 # Jokers
 
 There are three jokers in the game.
@@ -20,6 +24,24 @@ There are three jokers in the game.
 - 1 is a gwang
 
 In the event that a person has 6 gwang (including the joker), they receive 30 points from gwang
+
+# Bidori
+
+A player receives 2 points if they have meong of the following months:
+
+- August
+- December
+- Exactly one of February or April
+
+If a player holds all four cards, there is no bidori (the player has 5 points).
+
+# President
+
+If a player has 4 cards of the same year, he/she has the following two options:
+
+- end the game immediately and receive 3 points from all other players (greater
+  month wins if there are two players in the same situation)
+- continue the game and be able to both shake and throw a poktan
 
 # First ppeok
 

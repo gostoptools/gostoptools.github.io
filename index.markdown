@@ -16,7 +16,8 @@ used.
 # Apps
 
 As one of the participants, Juni Kim, is obsessed with web development, the Kim
-family uses several custom apps for recording and keeping score of their games.
+family uses several custom web apps for recording and keeping score of their
+games.
 
+- [Live Score Keeping](https://hwatu-6a25d.web.app)
 - [Data Collection](https://hwatu-datacollection.herokuapp.com)
-- [Score Keeping](https://hwatu-6a25d.web.app)
