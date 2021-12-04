@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /players/
+title: 'Players'
 ---
 
 # The Players

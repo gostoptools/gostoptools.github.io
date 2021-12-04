@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
+permalink: /rules/
 title: 'Rules'
-date: 2021-12-03 19:24:30 -0500
-categories: rules
 ---
 
 Most of the standard rules of go-stop are followed. Variations are specified below.
