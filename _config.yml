@@ -21,7 +21,7 @@
 title: Go-Stop with the Kims
 email: junikimm717@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rules for the Kim Family's Shenanigans in Go-Stop.
+  Website for the Kim Family's Adventures in playing Go-Stop.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://gostoptools.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gostoptools
